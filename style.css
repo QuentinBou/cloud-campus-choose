@@ -76,9 +76,6 @@ span {
 
 
 
-
-
-
 @keyframes cube {
     from {
         transform: scale(0) rotate(0deg) translate(-50%, -50%);
